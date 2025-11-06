@@ -59,9 +59,7 @@ It enables easy handling of customers, employees, rooms, suppliers, and inventor
 ## ⚙️ Installation & Setup Instructions
 
 Follow these steps to set up and run the project locally 👇
-
 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/your-username/hotel-management-system.git
 cd hotel-management-system
 
