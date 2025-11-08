@@ -1,9 +1,6 @@
 # 🏨 Hotel Management System – Hotel Elite
 
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange)
+
 
 A **full-stack Hotel Management System** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
 Developed for **Hotel Elite** as part of the *ITPM (Information Technology Project Management)* module,  
